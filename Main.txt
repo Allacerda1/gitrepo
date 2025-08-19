@@ -1,3 +1,0 @@
-Um segundo arquivo.
-Nesse arquivo é para adicionar no Git.
-Estou alterando esse arquivo, inserindo essa limha.

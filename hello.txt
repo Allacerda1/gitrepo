@@ -1,2 +1,0 @@
-Olá Mundo!
-Agora estou adicionando essa linha, para poder realizar uma alteração no git.
